@@ -8,8 +8,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-- https://ibb.co/yQ1b9KH
-- https://ibb.co/nPF3yyg
+https://ibb.co/37qMghm
+https://ibb.co/BjTgjcJ
 
 ### Links
 
@@ -35,6 +35,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Responsive background properties, positioning and SVG manipulation.
 - Flexblox
 - Positioning
+  -Letter spacing
 
 ## Author
 
