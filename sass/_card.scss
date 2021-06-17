@@ -10,12 +10,13 @@
   margin-right: -50%;
   transform: translate(-50%, -50%);
   overflow: hidden;
-  background-color: white;
+  background-color: #ffffff;
   border-radius: 1rem;
+  box-shadow: 1px 1px 8px 8px hsla(245, 100%, 0%, 0.2);
 
   .__top {
     position: relative;
-    height: 75%;
+    height: 77%;
     width: 100%;
     text-align: center;
     background-image: url("../images/bg-pattern-card.svg");
@@ -52,7 +53,7 @@
       margin: 0.7rem 0 0 0;
       padding: 0;
       font-size: 13px;
-      font-weight: 400;
+      font-weight: 700;
     }
   }
   .__bottom {
@@ -60,7 +61,7 @@
     flex-direction: row;
     align-content: center;
     justify-content: center;
-    height: 25%;
+    height: 23%;
     width: 100%;
 
     dl {
@@ -75,7 +76,7 @@
         margin: 0;
         font-size: 10px;
         letter-spacing: 1px;
-        font-weight: 400;
+        font-weight: 600;
         color: $darkGray;
       }
     }
