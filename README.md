@@ -10,6 +10,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
+- https://emquiroga.github.io/profile-card-component-main/
+
 ## My process
 
 - Size research with Adobe XD
