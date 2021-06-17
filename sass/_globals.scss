@@ -18,8 +18,8 @@ body {
   overflow-x: hidden;
   font-family: "Kumbh Sans", sans-serif;
   background-color: $darkCy;
-  background-image: url("/images/bg-pattern-top.svg"),
-    url("/images/bg-pattern-bottom.svg");
+  background-image: url("../images/bg-pattern-top.svg"),
+    url("../images/bg-pattern-bottom.svg");
   background-repeat: no-repeat, no-repeat;
   background-size: cover, cover;
   background-position: right 45vw bottom 50vh, left 45vw top 50vh;

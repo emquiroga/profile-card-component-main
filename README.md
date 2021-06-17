@@ -8,6 +8,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
+- https://ibb.co/yQ1b9KH
+- https://ibb.co/nPF3yyg
+
 ### Links
 
 - https://emquiroga.github.io/profile-card-component-main/
