@@ -1,0 +1,36 @@
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+body {
+  position: relative;
+  font-size: 18px;
+  color: $darkBlue;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+  font-family: "Kumbh Sans", sans-serif;
+  background-color: $darkCy;
+  background-image: url("/images/bg-pattern-top.svg"),
+    url("/images/bg-pattern-bottom.svg");
+  background-repeat: no-repeat, no-repeat;
+  background-size: cover, cover;
+  background-position: right 45vw bottom 50vh, left 45vw top 50vh;
+
+  @include breakpoint-up(medium) {
+    background-position: right 45vw bottom 40vh, left 45vw top 40vh;
+  }
+  @include breakpoint-up(large) {
+    background-position: right 45vw bottom 30vh, left 45vw top 30vh;
+  }
+}
+p {
+  color: $darkGray;
+}
